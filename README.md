@@ -37,5 +37,5 @@ A principai funcionalidade da aplicação é:
  - Com funcionalidades para auxiliar no dia-a-dia para manter uma organização de todas as tarefas. 
 
 ## Links
-  - Repositório: https://github.com/AbdiasFarias/Conversor-de-Moedas
+  - Repositório:(https://github.com/AbdiasFarias/to-do-list)
     
