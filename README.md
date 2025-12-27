@@ -1,15 +1,43 @@
-<img width="1564" height="629" alt="image" src="https://github.com/user-attachments/assets/08afe9d9-c153-4376-b27c-7ad668f43474" />
+<img width="844" height="640" alt="image" src="https://github.com/user-attachments/assets/2473b427-6847-4d4a-bd2f-e99729fd8aa9" />
 
-Listar Tarefas
-Aplicação web de listagem de tarefas 
 
-Tecnologia
+
+
+## Listagem de Tarefas
+Aplicação web para listagem de todas as tarefas do dia-dia
+
+
+## Tecnologia
+
 A seguir estão as tecnologias utilizadas neste projeto.
 
-HTML
-CSS
-JavaScript
-Serviços Utilizados
-Github
-Como usar
-1 - Selecionar a moeda que deseja ser feita a conversão.
+* React
+* TypeScript
+* 
+
+## Serviços Utilizados
+
+* Github
+
+## Como usar
+
+### 1 - Criar a tarefa que deseja e clicar em "Adicionar"
+
+<img width="606" height="463" alt="image" src="https://github.com/user-attachments/assets/3db4e3e6-cbd3-4f75-9efd-075f313dac70" />
+
+### 2 - Adicionado a tarefa, "Jogar bola". E consequentemente pode ser adicionado mais tarefas sendo assim quando concluidas podem ser marcadas como concluidas ou excluilas.
+
+<img width="1727" height="745" alt="image" src="https://github.com/user-attachments/assets/a81fd29f-0996-4649-b6d8-98f58d2e5bab" />
+<img width="599" height="518" alt="image" src="https://github.com/user-attachments/assets/351b99a0-8276-4fe6-b34a-c9e24dd7f30c" />
+<img width="931" height="505" alt="image" src="https://github.com/user-attachments/assets/a7aae14f-90f9-4d8a-b75c-a2bc12feb0e8" />
+
+
+
+## Características
+
+A principai funcionalidade da aplicação é:
+ - Conversor de moedas
+
+## Links
+  - Repositório: https://github.com/AbdiasFarias/Conversor-de-Moedas
+    
